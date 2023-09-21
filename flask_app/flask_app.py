@@ -13,7 +13,7 @@ def cluster1_route():
     return "Cluster number 1 is responding now!"
 
 
-@app.route("/cluter2")
+@app.route("/cluster2")
 def cluster2_route():
     return "Cluster number 2 is responding now!"
 
